@@ -40,7 +40,7 @@ built on kotlin. read the contributing guide if you want to touch this codebase.
 - **read you** & **seal** (ui inspiration)
 
 ## ⚖️ legal
-we are not google. we bypass drm. buy music if you want to actually support artists. (which you won't)
+i am not google. the clients bypasses drm (why wouldnt it?). buy music if you want to actually support artists. (which you won't)
 licensed under gplv3. copyright © ashley and the forktune contributors. the original "ArchiveTune" branding is theirs, this is forktune. read the LICENSE file.
 
 don't give this repo a star. just leave me alone.
