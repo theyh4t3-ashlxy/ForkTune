@@ -11,38 +11,8 @@ this is forktune. it plays youtube music on android. (why wouldnt it?) it's low-
 i deleted the images. use your imagination. it's a music player. it has a play button and a progress bar.
 
 ## ✨ features
-
-**playback:**
-- multiple accounts with quick switching.
-- ad-free. background listening.
-- your playlists, liked songs, and subs appear after sign-in.
-- local file support.
-- fast startup because we didn't bloat it.
-
-**audio:**
-- ebu r128 loudness normalization.
-- tempo, pitch, playback speed controls.
-- crossfade.
-- system eq and spatial audio.
-
-**lyrics & discovery:**
-- live synced lyrics.
-- ai translations and romanization.
-- music recognition for songs around you.
-- listening stats whenever you want them.
-
-**sync & social:**
-- import from spotify.
-- youtube music integration.
-- last.fm scrobbling.
-- listenbrainz sync.
-- discord rich presence.
-
-**interface & customization:**
-- material 3.
-- album-art dynamic colors.
-- 9 player styles. 8 background styles.
-- tweak everything until you break it.
+literally what archivetune has but a little bit more expressive no? like material 3 expressive and fixing bugs and yk stuff like that
+its nothing more than that
 
 ## 📥 download
 i'm not formatting a massive table of badges for you.
