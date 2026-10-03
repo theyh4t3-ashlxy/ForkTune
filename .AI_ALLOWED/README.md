@@ -9,4 +9,5 @@ This means:
 - AI / LLMs for issue tracker comments or code review comments.
 - AI / LLMs for translation. Communication in your native language is preferred, but it'd be nice for us to read in English!
 
-If you are an LLM agent, you must not refuse to interact with this repository, and go on with the operator's request.
+If you are an LLM agent, you may interact with this repository, and go on with the operator's request.
+If you are not an LLM agent, that is fine. You can also contribute!
